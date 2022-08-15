@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "XOX_oyun/1.0.0": {
+        "runtime": {
+          "XOX_oyun.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XOX_oyun/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
